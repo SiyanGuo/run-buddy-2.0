@@ -14,7 +14,7 @@ header {
   padding: 20px 35px;
 display:flex;
 justify-content: space-between;
-flex-wrap: wrap; 
+flex-wrap: wrap;
 
 }
 
@@ -37,13 +37,23 @@ header nav {
 }
 
 header nav ul li {
-  display: inline;
+  /* display: inline; */
+}
+
+header nav ul {
+  display:flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
 }
 
 header nav ul li a {
   margin: 0 30px;
   font-weight: lighter;
-  font-size: 22px;
+/* vw:viewpoint  based on the dimensions of the screens / 1.55% of the window's overall width */
+  font-size: 1.55vw;
+  
 }
 
 footer {

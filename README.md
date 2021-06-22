@@ -13,4 +13,4 @@ https://siyanguo.github.io/run-buddy-2.0/
 ## Contribution
 Made with ❤️ by Serena Guo
 
-### ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc

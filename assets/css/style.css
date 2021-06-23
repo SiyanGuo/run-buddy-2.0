@@ -209,7 +209,7 @@ section {
 .step-info{
   flex:2 70%;
   display:flex;
-  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
 }
 .secondary-border {
